@@ -9,7 +9,7 @@ export default function Home() {
       {/* Hero Section */}
       <div className="max-w-7xl mx-auto px-4 py-20">
         <h1 className="text-6xl font-bold text-center text-gray-900 mb-6">
-          FireAlert
+        Wildsave
         </h1>
         <p className="text-xl text-center text-gray-700 mb-12 max-w-2xl mx-auto">
           Real-time alerts and safety information to protect you and your loved ones during wildfire emergencies.
